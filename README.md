@@ -8,8 +8,8 @@ Portfolio created by Artur Shagislamov.
 ## Навыки (Skills)
 - **Языки:** SQL, Python
 - **Библиотеки Python:** Pandas, NumPy, Matplotlib, Seaborn
-- **Визуализация:** Tableau, Power BI
-- **Базы данных:** PostgreSQL, MySQL
+- **Визуализация:** Yandex DataLens
+- **Базы данных:** PostgreSQL
 
 ## Проекты
 
