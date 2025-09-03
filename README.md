@@ -21,4 +21,4 @@ Portfolio created by Artur Shagislamov.
 ### [Проект 2: Конференции TED (за период с 02.02.1984 по 26.06.2021)](project-2-py-eda/)
 - **Задача:** Построить дашборд для оценки популярности тем, географии проведения конференций, количества выступающих.
 - **Инструменты:** Yandex DataLens, SQL.
-- [Ссылка на дашборд в Tableau](https://datalens.yandex.cloud/q5tmho1uw0skc)
+- [Ссылка на дашборд в DataLens](https://datalens.yandex.cloud/q5tmho1uw0skc)
