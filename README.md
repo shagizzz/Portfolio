@@ -3,7 +3,7 @@ Portfolio created by Artur Shagislamov.
 
 # Data Analytics Portfolio
 
-Кратное описание: Начинающий аналитик данных. Владею SQL, Python, визуализацией данных. Ищу позицию Junior Data Analyst.
+Краткое описание: Начинающий аналитик данных. Владею SQL, Python, визуализацией данных. Ищу позицию Junior Data Analyst.
 
 ## Навыки (Skills)
 - **Языки:** SQL, Python
